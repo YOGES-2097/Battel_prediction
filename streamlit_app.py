@@ -29,7 +29,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 model = RandomForestClassifier(n_estimators=100)
 model.fit(X_train, y_train)
 acc = accuracy_score(y_test, model.predict(X_test))
-st.title("🛡️ Omnitrix Battle Simulator")
+st.title("Omnitrix Battle Simulator")
 st.markdown("---")
 col_a, col_b, col_c = st.columns([2, 1, 1])
 
