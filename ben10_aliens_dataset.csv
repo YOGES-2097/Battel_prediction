@@ -1,0 +1,116 @@
+name,series,type,species,home_world,power,total_power,combat,speed,durability,intelligence,heat,water,electricity,magic,stealth
+Heatblast,Original Series,Classic,Pyronite,Pyros,"Pyrokinesis, Fire Absorption, Flight",160,60,49,50,56,100,0,15,0,21
+Wildmutt,Original Series,Classic,Vulpimancer,Vulpin,"Enhanced Senses, Agility, Sharp Claws",111,75,70,60,30,6,14,14,0,80
+Diamondhead,Original Series,Classic,Petrosapien,Petropia,"Crystallokinesis, Crystal Constructs, Durability",157,80,48,100,42,20,8,10,1,28
+XLR8,Original Series,Classic,Kineceleran,Kinet,"Super Speed, Enhanced Reflexes, Friction Manipulation",114,70,100,40,57,10,10,8,0,11
+Grey Matter,Original Series,Classic,Galvan,Galvan Prime,"Enhanced Intelligence, Small Size, Climbing",113,10,40,10,100,13,13,13,5,80
+Four Arms,Original Series,Classic,Tetramand,Khoros,"Enhanced Strength, Durability, Sonic Clap",161,100,50,95,40,12,13,6,4,17
+Stinkfly,Original Series,Classic,Lepidopterran,Lepidopterra,"Flight, Slime Projection, Sharp Tail",110,50,80,40,44,10,8,6,0,26
+Ripjaws,Original Series,Classic,Piscciss Volann,Piscciss,"Underwater Breathing, Steel-Bending Jaws, Swimming",133,85,90,60,46,0,100,15,5,22
+Upgrade,Original Series,Classic,Galvanic Mechamorph,Galvan B,"Technopathy, Optic Blast, Liquid Metal Physiology",129,60,41,80,95,12,10,7,5,16
+Ghostfreak,Original Series,Classic,Ectonurite,Anur Phaetos,"Invisibility, Intangibility, Possession",120,50,30,30,46,15,9,7,60,100
+Cannonbolt,Original Series,Classic,Arburian Pelarota,Arburia,"Sphere Transformation, Indestructible Shell, Ricochet",161,90,85,100,42,11,14,14,2,10
+Wildvine,Original Series,Classic,Florauna,Flors Verdance,"Plant Manipulation, Elasticity, Regeneration",106,70,31,60,55,14,11,11,2,60
+Spitter,Original Series,Classic,Spheroid,Scalpasc,"Acid Spit, Slime Projection",88,50,30,31,51,15,40,5,1,25
+Buzzshock,Original Series,Classic,Nosedeenian,Nosedeen Quasar,"Electrokinesis, Duplication, Flight",128,47,90,47,60,13,5,100,2,13
+Arctiguana,Original Series,Classic,Polar Manzardill,X'Nelli,"Ice Breath, Freezing, Cold Resistance",108,44,30,70,57,0,60,9,0,28
+Blitzwolfer,Original Series,Classic,Loboan,Luna Lobo,"Sonic Howl, Sharp Claws, Enhanced Senses",106,80,70,39,57,7,12,6,4,60
+Snare-oh,Original Series,Classic,Thep Khufan,Anur Khufos,"Bandage Manipulation, Regeneration, Curse Deflection",117,48,46,80,56,7,5,12,70,70
+Frankenstrike,Original Series,Classic,Transylian,Anur Transyl,"Electrokinesis, Enhanced Strength, Tech Connectivity",124,95,30,90,80,13,15,90,4,12
+Upchuck,Original Series,Classic,Gourmand,Peptos XI,"Matter Ingestion, Explosive Vomit",109,60,39,80,53,14,5,10,4,21
+Ditto,Original Series,Classic,Splixson,Hathor,"Self-Duplication, Enhanced Agility",87,40,60,30,36,7,10,11,2,12
+Eye Guy,Original Series,Classic,Opticoid,Sightra,"360 Vision, Energy Beams (Fire/Ice/Elec)",108,70,31,37,38,70,70,70,3,18
+Way Big,Original Series,Classic,To'kustar,Cosmic Storms,"Gigantism, Cosmic Rays, Super Strength",231,100,60,100,40,80,13,8,2,24
+Swampfire,Alien Force,Alien Force,Methanosian,Methanos,"Pyrokinesis, Chlorokinesis, Regeneration",167,80,31,90,47,95,30,10,1,13
+Echo Echo,Alien Force,Alien Force,Sonorosian,Sonorosia,"Sonic Screams, Duplication, Echolocation",87,70,50,30,30,14,10,9,1,14
+Humungousaur,Alien Force,Alien Force,Vaxasaurian,Terradino,"Size Alteration, Super Strength, Durability",158,100,40,100,59,13,6,8,2,22
+Jetray,Alien Force,Alien Force,Aerophibian,Aeropela,"Hyperspace Flight, Neuroshock Blasts",125,36,100,41,44,60,80,11,2,16
+Big Chill,Alien Force,Alien Force,Necrofriggian,Kylmyys,"Cryokinesis, Intangibility, Flight",163,45,45,80,46,0,12,10,3,95
+Chromastone,Alien Force,Alien Force,Crystalsapien,Petropia,"Energy Absorption, Ultraviolet Beams, Flight",168,80,34,95,50,9,12,80,5,10
+Brainstorm,Alien Force,Alien Force,Cerebrocrustacean,Encephalonus IV,"Super Intelligence, Electrokinesis, Forcefields",118,50,40,48,100,7,13,90,2,29
+Spidermonkey,Alien Force,Alien Force,Arachnichimp,Aranhaschimmia,"Agility, Webbing, Wall Crawling",113,80,85,50,33,8,15,8,0,16
+Goop,Alien Force,Alien Force,Polymorph,Viscosia,"Acid Projection, Shapeshifting, Indestructibility",116,30,60,90,45,5,13,13,1,20
+Alien X,Alien Force,Alien Force,Celestialsapien,Forge of Creation,"Reality Warping, Omnipotence, Time Control",1000,100,100,100,100,100,100,100,100,100
+Lodestar,Alien Force,Alien Force,Biosovortian,Attracta,"Magnetism, Regeneration, Flight",121,70,43,80,34,13,9,13,2,25
+Rath,Alien Force,Alien Force,Appoplexian,Appoplexia,"Enhanced Strength, Rage, Wrestling Moves",113,95,60,90,20,6,15,14,2,16
+Nanomech,Alien Force,Alien Force,Nanochip/Human Hybrid,Earth,"Size Reduction, Bio-Electrokinesis, flight",129,30,90,39,48,6,10,5,5,80
+Water Hazard,Ultimate Alien,Ultimate Alien,Orishan,Kiusana,"Hydrokinesis, Moisture Absorption, Armored Shell",123,45,30,80,59,20,100,7,3,25
+Ampfibian,Ultimate Alien,Ultimate Alien,Amperi,Tessalos,"Electrokinesis, Intangibility, Mind Reading",131,38,90,80,41,15,7,100,4,70
+Armodrillo,Ultimate Alien,Ultimate Alien,Talpaedan,Terraexcava,"Earthquake Generation, Drilling, Super Strength",116,90,40,90,33,6,5,14,5,14
+Terraspin,Ultimate Alien,Ultimate Alien,Geochelone Aerio,Aldabra,"Aerokinesis, Tornado Generation, Magic Immunity",127,48,60,80,37,7,13,12,80,21
+NRG,Ultimate Alien,Ultimate Alien,Prypiatosian-B,Prypiatos,"Radiokinesis, Heat Generation, Indestructible Armor",166,80,30,100,35,100,5,10,5,18
+Fasttrack,Ultimate Alien,Ultimate Alien,Citrakayah,Chalybeas,"Super Speed, Enhanced Strength",111,70,95,50,32,10,6,5,0,18
+Chamalien,Ultimate Alien,Ultimate Alien,Merlinisapien,Unknown,"Camouflage, Invisibility, Slippery Body",119,60,80,37,50,10,12,15,5,100
+Eatle,Ultimate Alien,Ultimate Alien,Oryctini,Coleop Terra,"Matter Ingestion, Laser Horn, Super Strength",98,81,37,45,35,8,14,8,5,18
+Clockwork,Ultimate Alien,Ultimate Alien,Chronosapien,Unknown,"Chronokinesis, Time Travel, Retro-cognition",204,38,10,40,60,14,5,10,90,13
+Jury Rigg,Ultimate Alien,Ultimate Alien,Planchakule,Aul-Turrhen,"Machine Disassembly/Reassembly, Enhanced Speed",105,40,94,43,54,12,11,8,0,29
+Shocksquatch,Ultimate Alien,Ultimate Alien,Gimlinopithecus,Pattersonea,"Electrokinesis, Super Strength",114,80,49,41,44,11,12,90,3,18
+Feedback,Omniverse,Omniverse,Conductoid,Teslavorr,"Energy Absorption, Redirection, electricity",219,85,70,60,36,15,12,100,5,28
+Bloxx,Omniverse,Omniverse,Segmentasapien,Polyominus,"Shape Shifting, Regeneration, Block Constructs",107,70,40,90,40,7,8,6,4,16
+Gravattack,Omniverse,Omniverse,Galilean,Keplirr,"Gravikinesis, Orbit Generation",230,80,39,90,45,13,13,15,1,21
+Crashhopper,Omniverse,Omniverse,Orthopterran,Unknown,"Super Jumping, Shockwaves",107,75,90,31,35,6,6,13,5,14
+Ball Weevil,Omniverse,Omniverse,Insectoid,Unknown,Plasma Ball Generation,102,60,70,33,46,11,14,11,2,13
+Walkatrout,Omniverse,Omniverse,Ickthyoidperambul,Gilli-Perambulous Promenade,"Slippery, Water Breathing",98,10,50,34,37,14,90,13,1,14
+Pesky Dust,Omniverse,Omniverse,Nemuina,Nemunimos IV,"Sleep Inducement, Dream Manipulation",128,50,40,33,46,12,6,9,90,80
+Mole-Stache,Omniverse,Omniverse,Unknown,Unknown,"Mustache Manipulation, Digging",97,60,39,41,57,5,8,11,2,20
+The Worst,Omniverse,Omniverse,Atrocian,Unknown,Indestructibility,97,10,10,100,42,10,10,9,0,26
+Kickin Hawk,Omniverse,Omniverse,Unknown,Unknown,"Enhanced Kicking, Agility",107,90,70,38,36,13,8,6,4,11
+Toepick,Omniverse,Omniverse,Unknown,Unknown,"Nightmare Face, Fear Inducement",101,50,47,38,52,9,8,15,80,60
+Astrodactyl,Omniverse,Omniverse,Unknown,Terradino,"Flight, Energy Whips, Propulsion",122,70,80,41,45,12,5,8,4,14
+Bullfrag,Omniverse,Omniverse,Incursean,Unknown,"Enhanced Jumping, Long Tongue",103,80,60,41,51,5,13,9,0,16
+Atomix,Omniverse,Omniverse,Unknown,Unknown,"Nuclear Energy Generation, Flight, Min-Nukes",237,95,42,95,60,100,5,100,2,28
+Gutrot,Omniverse,Omniverse,Unknown,Unknown,Chemical Gas Synthesis,80,36,35,50,32,13,14,13,2,23
+Whampire,Omniverse,Omniverse,Vladat,Anur Vladias,"Hypnosis, Energy Drain, Flight",120,70,45,41,56,13,11,14,1,80
+Overflow,Reboot,Reboot,Cascan,Cascareau,"Hydrokinesis, Water Blades",102,46,32,36,46,6,83,9,3,19
+Gax,Reboot,Reboot,Chimera Sui Generis,Vilgaxia,"Laser Eyes, Super Strength",95,95,34,40,35,10,5,10,4,23
+Shock Rock,Reboot,Reboot,Fulmini,Fulmas,"Energy Absortion, Omni-Enhanced Constructs",110,50,32,45,60,10,10,92,3,20
+Slapback,Reboot,Reboot,Ekoplektoid,Ekoplekton,"Duplication, Density Increase",92,46,43,34,59,14,10,9,2,15
+Surge,Reboot,Reboot,Unknown,Unknown,"Hive Mind, Flight, Lasers",108,34,38,49,36,13,14,12,3,19
+Ultimate Humungousaur,Ultimate Alien,Ultimate,Evolved Vaxasaurian,Terradino,"Missile Generation, Super Strength",190,100,50,100,66,16,6,15,0,28
+Ultimate Swampfire,Ultimate Alien,Ultimate,Evolved Methanosian,Methanos,"Blue Pyrokinesis, Explosive Seeds",209,100,41,100,72,100,37,17,5,17
+Ultimate Spidermonkey,Ultimate Alien,Ultimate,Evolved Arachnichimp,Aranhaschimmia,"Gorilla Physiology, Strong Webs",197,100,100,62,61,18,16,6,2,32
+Ultimate Big Chill,Ultimate Alien,Ultimate,Evolved Necrofriggian,Kylmyys,"Fire/Ice Breath, Phasing, Flight",205,46,53,100,55,0,12,8,6,100
+Ultimate Cannonbolt,Ultimate Alien,Ultimate,Evolved Arburian Pelarota,Arburia,"Spiked Shell, Defense",204,100,100,100,67,7,17,12,1,15
+Ultimate Echo Echo,Ultimate Alien,Ultimate,Evolved Sonorosian,Sonorosia,"Sonic Dooms, Flight, Sonic Discs",177,87,62,37,57,10,8,11,6,26
+Ultimate Wildmutt,Ultimate Alien,Ultimate,Evolved Vulpimancer,Vulpin,"Speech, Enhanced Strength",204,93,87,75,37,18,8,6,0,100
+Ultimate Way Big,Ultimate Alien,Ultimate,Evolved To'kustar,Cosmic Storms,"Gargantuan Size, Flight, Cosmic Beams",237,100,75,100,41,100,17,8,6,31
+Ultimate Arctiguana,Omniverse,Ultimate,Evolved Polar Manzardill,X'Nelli,"Ice Cannons, Flight",185,42,56,87,65,0,75,13,0,35
+Ultimate Gravattack,Omniverse,Ultimate,Evolved Galilean,Keplirr,"Living Planet, Orbit Control",235,100,52,100,48,11,11,12,1,28
+Ultimate Rath,Omniverse,Ultimate,Evolved Appoplexian,Appoplexia,"Four Arms, Dual Claws, Rage",199,100,75,100,25,17,18,6,6,13
+Ultimate Grey Matter,Omniverse,Ultimate,Evolved Galvan,Galvan Prime,"Brainblasts, Flight, Super Intelligence",192,12,50,12,100,10,13,7,2,100
+Ultimate Albedo,Ultimate Alien,Ultimate,Evolved Galvan,Galvan Prime,"Polymorphism, Crystallization",154,31,47,45,44,8,5,7,3,23
+Atomic-X,Omniverse,Fusion,Atomix / Alien X Fusion,Unknown,"Reality Warping, Nuclear Energy",856,41,31,50,33,14,15,90,1,15
+Crashocker,Omniverse,Fusion,Crashhopper / Shocksquatch Fusion,Unknown,"Electric Jumps, Thunderclaps",128,30,50,42,38,11,11,85,3,28
+Big Chuck,Omniverse,Fusion,Way Big / Upchuck Fusion,Unknown,"Giant Size, Energy Vomit",128,38,39,37,43,11,14,94,5,28
+Fourmungousaur,Omniverse,Fusion,Four Arms / Humungousaur Fusion,Unknown,"Immense Strength, Four Arms",132,85,39,49,51,6,10,8,4,22
+Humungoopsaur,Omniverse,Fusion,Humungousaur / Goop Fusion,Unknown,"Slime Physiology, Strength",147,44,60,90,50,10,12,13,3,30
+Uprigg,Omniverse,Fusion,Upgrade / Jury Rigg Fusion,Unknown,"Technological Enhancement, Fast Build",128,34,95,37,42,11,15,11,1,26
+Heat Jaws,Original Series,Fusion,Heatblast / Ripjaws Fusion,Unknown,Fire and Water Adaptation (Limited),140,50,45,34,51,86,84,14,4,24
+Stink Arms,Original Series,Fusion,Stinkfly / Four Arms Fusion,Unknown,"Flight, Strength, Slimper",143,89,49,34,43,12,6,5,0,23
+Diamond Matter,Original Series,Fusion,Diamondhead / Grey Matter Fusion,Unknown,"Crystal Constructs, Intelligence",135,50,39,41,91,11,9,11,0,19
+Eon,Original Series,Special,Chronian,Chronia,Time Manipulation,87,44,48,38,57,7,14,5,2,26
+Decagon Vreedle,Alien Force,Special,Vreedle,Unknown,Explosives Expert,80,33,49,37,31,15,5,5,1,19
+Rocks,Original Series,Special,Basalt,Andesite,"Earth Manipulation, Durability",107,39,50,89,46,10,6,12,1,30
+Squidstrictor,Original Series,Special,Cephalodae,Mollusca,"Constriction, Ink",94,41,43,42,51,5,15,10,0,26
+Ventrilosquid,Omniverse,Special,Synaptak,Unknown,"Telepathy, Ventriloquism",86,43,45,38,40,9,7,6,1,22
+Sandbox,Omniverse,Special,Unknown,Unknown,Sand Manipulation,89,32,47,41,42,13,14,14,1,17
+Shellhead,Original Series,Special,Unknown,Unknown,"Indestructible Shell, Hiding",85,38,33,34,49,9,14,5,1,23
+Snake-pit,Original Series,Special,Unknown,Unknown,Snake Control,91,46,40,39,52,5,5,11,0,16
+Antigravitesla,Omniverse,Special,Unknown,Unknown,"Gravity Control, Flight",106,49,47,39,48,8,6,13,5,14
+Bob the Blob,Omniverse,Special,Unknown,Unknown,"Adhesion, Bounce",79,38,30,34,43,15,10,15,5,22
+Plantapocalypse,Omniverse,Special,Unknown,Unknown,"Rapid Growth, Spores",78,46,32,33,30,6,12,10,3,11
+Omni-Enhanced Heatblast,Reboot,Omni-Enhanced/Kix,Enhanced Heatblast,Unknown,"Rock Armor, Jetpack, Electrical Fire",151,66,52,55,41,100,0,13,3,24
+Omni-Enhanced Diamondhead,Reboot,Omni-Enhanced/Kix,Enhanced Diamondhead,Unknown,"Energy Sword, Crystal Cannon",145,88,39,100,37,22,5,11,4,31
+Omni-Enhanced Four Arms,Reboot,Omni-Enhanced/Kix,Enhanced Four Arms,Unknown,"Shockwave Punches, Extra Durability",152,100,55,100,44,16,14,5,2,30
+Omni-Enhanced Cannonbolt,Reboot,Omni-Enhanced/Kix,Enhanced Cannonbolt,Unknown,"Spiked Wheel, Energy Trail",158,99,93,100,56,9,8,7,4,31
+Omni-Enhanced SLR8,Reboot,Omni-Enhanced/Kix,Enhanced XLR8,Unknown,"Energy Kicks, Speed Boost",137,30,94,35,35,14,14,81,2,18
+Omni-Enhanced Grey Matter,Reboot,Omni-Enhanced/Kix,Enhanced Grey Matter,Unknown,Energy Construct Mech,140,11,44,11,100,15,16,13,1,88
+Omni-Enhanced Overflow,Reboot,Omni-Enhanced/Kix,Enhanced Overflow,Unknown,"Ice Cannons, Water Jetpack",125,41,46,47,35,0,81,12,2,30
+Omni-Enhanced Wildvine,Reboot,Omni-Enhanced/Kix,Enhanced Wildvine,Unknown,"Thorn Whips, Electric Moss",144,77,42,66,36,14,11,13,3,66
+Omni-Enhanced Stinkfly,Reboot,Omni-Enhanced/Kix,Enhanced Stinkfly,Unknown,"Paralysis Gas, Energy Trail",146,55,88,44,37,5,15,7,4,30
+Omni-Kix Four Arms,Reboot,Omni-Enhanced/Kix,Enhanced Four Arms,Unknown,"Space Armor, Rocket Punch",153,100,55,100,44,7,5,12,0,18
+Omni-Kix Heatblast,Reboot,Omni-Enhanced/Kix,Enhanced Heatblast,Unknown,"Space Armor, Rocket Flight",156,66,55,55,62,100,0,12,5,25
+Omni-Kix Cannonbolt,Reboot,Omni-Enhanced/Kix,Enhanced Cannonbolt,Unknown,"Tank Treads, Laser Cannons",167,99,93,100,59,14,16,13,5,22
+Omni-Kix Humungousaur,Reboot,Omni-Enhanced/Kix,Enhanced Humungousaur,Unknown,"Mecha Armor, shockwave Tail",148,100,44,100,39,9,9,7,3,18
+Omni-Kix Slapback,Reboot,Omni-Enhanced/Kix,Enhanced Slapback,Unknown,"Heavy Armor, Weight Manipulation",134,40,31,94,47,8,13,13,0,26
+Omni-Naut Jetray,Reboot,Omni-Enhanced/Kix,Enhanced Jetray,Unknown,"Space Flight, Laser Array",159,37,100,52,38,66,88,5,0,14
