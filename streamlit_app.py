@@ -54,7 +54,7 @@ stat_col3.metric("Durability", hero_stats['durability'])
 stat_col4.metric("Intelligence", hero_stats['intelligence'])
 
 st.markdown("---")
-if st.button("🔥 INITIATE BATTLE PREDICTION", use_container_width=True):
+if st.button("INITIATE BATTLE PREDICTION", use_container_width=True):
     terrain_val = le_t.transform([selected_terrain])[0]
     type_val = le_b.transform([selected_battle])[0]
     
